@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-concise",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adds concise.css to your ember application",
   "directories": {
     "doc": "doc",
@@ -11,11 +11,10 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/michaelbulpitt/ember-cli-concise",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "https://github.com/michaelbulpitt/ember-cli-concise",
   "author": "",
   "license": "MIT",
   "devDependencies": {
