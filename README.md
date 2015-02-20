@@ -1,25 +1,12 @@
-# Ember-cli-concise
+## concise.css for Ember [![Build Status](https://travis-ci.org/michaelbulpitt/ember-cli-concise.svg?branch=master)](https://travis-ci.org/michaelbulpitt/ember-cli-concise) 
 
-This README outlines the details of collaborating on this Ember addon.
 
-## Installation
+This ember-cli-addon adds concise.css to your project.
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+### Installing via ember-cli
 
-## Running
+You can install this add by:
 
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+```bash
+ember install:addon ember-cli-concise
+```
