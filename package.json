@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-concise",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Adds concise.css to your ember application",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -15,6 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
+  "repository": "https://github.com/michaelbulpitt/ember-cli-concise",
   "author": "",
   "license": "MIT",
   "devDependencies": {
@@ -35,7 +36,9 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "css",
+    "concise"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
